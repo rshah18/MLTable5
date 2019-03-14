@@ -3,6 +3,7 @@
 
 
 # Team Members
+- Leng Kao Xiong (newest member)
 - Mason Juarez
 - Majid Farhadloo
 - Harbhajan Singh
